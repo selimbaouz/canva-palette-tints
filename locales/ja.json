@@ -1,0 +1,7 @@
+{
+  "description_palette": "ベースカラーから鮮やかな色を作成します",
+  "description_tints": "ベースカラーから調和のとれたティントを生成します",
+  "baseColorLabel": "ベースカラー",
+  "reload": "色をシャッフル",
+  "addToDesign": "デザインに追加"
+}

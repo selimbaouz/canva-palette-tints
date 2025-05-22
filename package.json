@@ -1,6 +1,6 @@
 {
-  "name": "canva-apps-sdk-starter-kit",
-  "description": "A boilerplate for creating Canva Apps.",
+  "name": "palettegenerator",
+  "description": "A tool to easily generate vibrant and harmonious color palettes starting from a single base color.",
   "engines": {
     "node": "^18 || ^20.10.0",
     "npm": "^9 || ^10"
@@ -30,12 +30,13 @@
   ],
   "dependencies": {
     "@canva/app-i18n-kit": "^1.0.2",
-    "@canva/app-ui-kit": "^4.8.0",
+    "@canva/app-ui-kit": "^4.9.0",
     "@canva/asset": "^2.1.0",
     "@canva/design": "^2.4.0",
     "@canva/error": "^2.1.0",
     "@canva/platform": "^2.1.0",
     "@canva/user": "^2.1.0",
+    "chroma-js": "^3.1.2",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-intl": "6.8.7"
