@@ -1,6 +1,8 @@
 {
-  "description_palette": "기본 색상에서 생생한 색상을 만듭니다",
-  "description_tints": "기본 색상에서 조화로운 색조를 생성합니다",
+ "palette_label": "팔레트",
+  "tints_label": "틴트",
+  "description_palette": "기본 색상에서 색상 팔레트 만들기",
+  "description_tints": "기본 색상에서 조화로운 틴트 생성",
   "baseColorLabel": "기본 색상",
   "reload": "색상 섞기",
   "addToDesign": "디자인에 추가"

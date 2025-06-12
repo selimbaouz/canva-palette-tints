@@ -1,7 +1,9 @@
 {
-  "description_palette": "Erstelle eine lebendige Farbe aus einer Grundfarbe",
-  "description_tints": "Erzeuge harmonische Töne aus deiner Grundfarbe",
+  "palette_label": "Palette",
+  "tints_label": "Tönungen",
+  "description_palette": "Erstellen Sie eine lebendige Farbpalette aus einer Grundfarbe",
+  "description_tints": "Erzeugen Sie harmonische Tönungen aus Ihrer Grundfarbe",
   "baseColorLabel": "Grundfarbe",
-  "reload": "Farben neu anordnen",
+  "reload": "Farben mischen",
   "addToDesign": "Zum Design hinzufügen"
 }

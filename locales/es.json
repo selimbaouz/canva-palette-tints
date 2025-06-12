@@ -1,7 +1,9 @@
 {
-  "description_palette": "Crea un color vibrante a partir de un color base",
-  "description_tints": "Genera matices armoniosos a partir de tu color base",
+  "palette_label": "Paleta",
+  "tints_label": "Tonos",
+  "description_palette": "Crear una paleta de colores a partir de un color base",
+  "description_tints": "Generar tonos armoniosos a partir de tu color base",
   "baseColorLabel": "Color base",
   "reload": "Mezclar colores",
-  "addToDesign": "Añadir al diseño"
+  "addToDesign": "Agregar al diseño"
 }

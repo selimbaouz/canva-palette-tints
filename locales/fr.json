@@ -1,5 +1,7 @@
 {
-  "description_palette": "Créer une couleur vibrante à partir d'une couleur de base",
+  "palette_label": "Palette",
+  "tints_label": "Teintes",
+  "description_palette": "Créer une palette de couleurs à partir d'une couleur de base",
   "description_tints": "Générer des teintes harmonieuses à partir de votre couleur de base",
   "baseColorLabel": "Couleur de base",
   "reload": "Mélanger les couleurs",

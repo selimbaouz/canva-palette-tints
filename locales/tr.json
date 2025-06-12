@@ -1,7 +1,9 @@
 {
-  "description_palette": "Ana renkten canlı bir renk oluşturun",
-  "description_tints": "Ana renginizden uyumlu tonlar oluşturun",
-  "baseColorLabel": "Ana renk",
+  "palette_label": "Palet",
+  "tints_label": "Tonlar",
+  "description_palette": "Temel renkten bir renk paleti oluşturun",
+  "description_tints": "Temel renginizden uyumlu tonlar oluşturun",
+  "baseColorLabel": "Temel renk",
   "reload": "Renkleri karıştır",
   "addToDesign": "Tasarımınıza ekleyin"
 }

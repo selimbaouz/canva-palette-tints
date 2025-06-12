@@ -1,6 +1,8 @@
 {
-  "description_palette": "Buat warna cerah dari warna dasar",
-  "description_tints": "Hasilkan nuansa harmonis dari warna dasar Anda",
+  "palette_label": "Palet",
+  "tints_label": "Corak",
+  "description_palette": "Buat palet warna dari warna dasar",
+  "description_tints": "Hasilkan corak harmonis dari warna dasar Anda",
   "baseColorLabel": "Warna dasar",
   "reload": "Acak warna",
   "addToDesign": "Tambahkan ke desain"

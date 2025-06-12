@@ -1,7 +1,9 @@
 {
-  "description_palette": "Crie uma cor vibrante a partir de uma cor base",
-  "description_tints": "Gere tonalidades harmoniosas a partir da sua cor base",
+  "palette_label": "Paleta",
+  "tints_label": "Tons",
+  "description_palette": "Crie uma paleta de cores a partir de uma cor base",
+  "description_tints": "Gere tons harmoniosos a partir da sua cor base",
   "baseColorLabel": "Cor base",
-  "reload": "Baralhar cores",
+  "reload": "Embaralhar cores",
   "addToDesign": "Adicionar ao design"
 }
